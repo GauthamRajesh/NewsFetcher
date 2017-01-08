@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Fetcher</string>
+    <string name="search">Search</string>
+    <string name="search_prompt">Enter a news section...</string>
+</resources>
